@@ -31,4 +31,4 @@ let operatorsNDInput = operatorsInput.filter(function(item, index){
 console.log(operatorsNDInput);
 
 // if (operatorsInput.indexOf(value) === false) operatorsInput.push(value);
-let resultDisplayed = false; // flag to keep an eye on what output is displayed
+let resultDisplayed = false; // flag o keep an eye on what output is displayed
